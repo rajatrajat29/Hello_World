@@ -1,4 +1,4 @@
 # hello_world
 repos
 HI !
-i am here.
+i am here and i am new to git. 
